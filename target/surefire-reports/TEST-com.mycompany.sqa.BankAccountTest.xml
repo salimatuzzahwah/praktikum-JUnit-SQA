@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.sqa.BankAccountTest" time="0.138" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="24"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Salimatuz Zahwah\OneDrive\Documents\NetBeansProjects\SQA\target\test-classes;C:\Users\Salimatuz Zahwah\OneDrive\Documents\NetBeansProjects\SQA\target\classes;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.0\junit-jupiter-5.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.0\junit-jupiter-api-5.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\platform\junit-platform-commons\1.9.0\junit-platform-commons-1.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.0\junit-jupiter-params-5.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.0\junit-jupiter-engine-5.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\platform\junit-platform-engine\1.9.0\junit-platform-engine-1.9.0.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="user.timezone" value="Asia/Jakarta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="24"/>
+    <property name="user.country" value="ID"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin"/>
+    <property name="sun.java.command" value="C:\Users\Salimatuz Zahwah\AppData\Local\Temp\surefire15969458154395788092\surefirebooter-20260424221223836_3.jar C:\Users\Salimatuz Zahwah\AppData\Local\Temp\surefire15969458154395788092 2026-04-24T22-12-22_150-jvmRun1 surefire-20260424221223836_1tmp surefire_0-20260424221223836_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Salimatuz Zahwah\OneDrive\Documents\NetBeansProjects\SQA\target\test-classes;C:\Users\Salimatuz Zahwah\OneDrive\Documents\NetBeansProjects\SQA\target\classes;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.0\junit-jupiter-5.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.0\junit-jupiter-api-5.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\platform\junit-platform-commons\1.9.0\junit-platform-commons-1.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.0\junit-jupiter-params-5.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.0\junit-jupiter-engine-5.9.0.jar;C:\Users\Salimatuz Zahwah\.m2\repository\org\junit\platform\junit-platform-engine\1.9.0\junit-platform-engine-1.9.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Salimatuz Zahwah"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-04-15"/>
+    <property name="java.home" value="C:\Program Files\Apache NetBeans\jdk"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Salimatuz Zahwah\OneDrive\Documents\NetBeansProjects\SQA"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Salimatuz Zahwah\AppData\Local\Temp\surefire15969458154395788092\surefirebooter-20260424221223836_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="24.0.1+9"/>
+    <property name="user.name" value="Salimatuz Zahwah"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Zulu24.30+11-CA"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\Apache NetBeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Salimatuz Zahwah\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\SALIMA~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="24.0.1"/>
+    <property name="user.dir" value="C:\Users\Salimatuz Zahwah\OneDrive\Documents\NetBeansProjects\SQA"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PostgreSQL\16\bin;C:\Users\Salimatuz Zahwah\Downloads\x86_64-15.2.0-release-win32-seh-ucrt-rt_v13-rev0\mingw64\bin;C:\Program Files\Git\cmd;D:\xampp\apache\bin;C:\xampp\php;C:\composer;D:\flutter_windows_3.41.4-stable\flutter\bin;C:\Users\Salimatuz Zahwah\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Salimatuz Zahwah\AppData\Local\Programs\Python\Python312\;C:\Users\Salimatuz Zahwah\AppData\Local\Programs\Python\Launcher\;C:\Users\Salimatuz Zahwah\AppData\Local\Microsoft\WindowsApps;C:\Users\Salimatuz Zahwah\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Salimatuz Zahwah\AppData\Local\bin\NASM;C:\Users\Salimatuz Zahwah\Downloads\x86_64-15.2.0-release-win32-seh-ucrt-rt_v13-rev0\mingw64\bin;C:\Users\Salimatuz Zahwah\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Salimatuz Zahwah\GitHubDesktop\bin;C:\Users\Salimatuz Zahwah\AppData\Roaming\Composer\vendor\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="24.0.1+9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="68.0"/>
+  </properties>
+  <testcase name="testDepositBerhasil" classname="com.mycompany.sqa.BankAccountTest" time="0.088">
+    <system-out><![CDATA[=== Setup: akun dibuat dengan saldo 1.000.000 ===
+=== TearDown: saldo akhir = 1500000.0 ===
+
+]]></system-out>
+  </testcase>
+  <testcase name="testWithdrawBerhasil" classname="com.mycompany.sqa.BankAccountTest" time="0.002">
+    <system-out><![CDATA[=== Setup: akun dibuat dengan saldo 1.000.000 ===
+=== TearDown: saldo akhir = 700000.0 ===
+
+]]></system-out>
+  </testcase>
+  <testcase name="testWithdrawGagalSaldoTidakCukup" classname="com.mycompany.sqa.BankAccountTest" time="0.005">
+    <system-out><![CDATA[=== Setup: akun dibuat dengan saldo 1.000.000 ===
+Exception: Saldo tidak cukup! Saldo saat ini: 1000000.0
+=== TearDown: saldo akhir = 1000000.0 ===
+
+]]></system-out>
+  </testcase>
+</testsuite>
